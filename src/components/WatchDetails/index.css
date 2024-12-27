@@ -1,0 +1,8 @@
+.select-container {
+  margin: 1rem;
+}
+.all-cards-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
